@@ -8,7 +8,7 @@ tags: 笔记
 
 ---
 
-> 及上篇博客完成 Google Cloud 免费一年申请 [【免费一年、科学上网】-- 30分钟搭建Google cloud SS](https://www.jianshu.com/p/082c2c504db2)
+> 及上篇博客完成 Google Cloud 免费一年申请 [【免费一年、科学上网】-- 30分钟搭建Google cloud SS](http://itzhangbao.com/2018/06/26/笔记/【免费一年、科学上网】--%2030分钟搭建Google%20cloud%20SS/)
 
 ## 安装 Shadowsocks
 
