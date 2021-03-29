@@ -7,10 +7,3 @@
 4. npm ls --depth 0 
 5. hexo g
 6. hexo si am jumbo.
-i am jumbo.
-i am jumbo.
-i am jumbo.
-i am jumbo.
-i am jumbo.
-i am jumbo.
-i am jumbo.
